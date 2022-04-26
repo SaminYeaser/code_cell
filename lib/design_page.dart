@@ -10,6 +10,7 @@ class DesignedPage extends StatefulWidget {
 
 class _DesignedPageState extends State<DesignedPage> {
   double? _ratingValue;
+  //asd
   List popularItem = [
     'assets/images/food5.jpg',
     'assets/images/food3.jpg',
